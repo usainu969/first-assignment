@@ -159,3 +159,72 @@
     padding-right: 1060px;
 }
 
+
+/*--------------------place style section------------*/
+
+.place{
+    text-align: center;
+    font-size: 32px;
+    font-weight: 600;
+    line-height: 56px;
+    padding-top: 100px;
+}
+.date{
+    text-align: center;
+    font-size: 32px;
+    font-weight: 600;
+    line-height: 56px;
+    
+}
+.time{
+    text-align: center;
+    font-size: 32px;
+    font-weight: 600;
+    line-height: 56px;
+    
+}
+.place1{
+    color: #F00;
+    text-align: center;
+    font-size: 32px;
+    font-weight: 600;
+    line-height: 56px;
+}
+.date1{
+    color: #F00;
+    text-align: center;
+    font-size: 32px;
+    font-weight: 600;
+    line-height: 56px;
+    
+}
+.time1{
+    color: #F00;
+    text-align: center;
+    font-size: 32px;
+    font-weight: 600;
+    line-height: 56px;
+    
+}
+
+button{
+    color: white;
+    margin-top: 64px;
+    margin-bottom: 126px;
+    padding-left: 36px;
+    padding-right:36px;
+    padding-top:18px;
+    padding-bottom: 18px;
+    background-color: #FF0000;
+    border-radius: 1px solid red;
+
+
+}
+
+#venue-address {
+    margin-left: 140px;
+    margin-right: 140px;
+    background-color:rgb(230, 167, 167);
+    margin-top: 140px;
+    text-align: center;
+}
