@@ -399,3 +399,59 @@ input {
     padding-left: 56px;
     padding-right: 56px;
 }
+
+/* --------footer section------------ */
+
+.footer-section {
+    background-color: black;
+    margin-left: 140px;
+    margin-right: 140px;
+    margin-top: 140px;
+}
+
+.address-footer {
+    display: flex;
+    justify-content: space-between;
+    padding-top: 120px;
+    padding-right: 270px;
+    padding-left: 40px;
+}
+
+.address-text {
+    display: block;
+    color: #FFF;
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 40px;
+    width: 375px;
+    height: 80px;
+}
+
+.contact-address {
+    color: #FFF;
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 40px;
+}
+
+.social-link {
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    padding-top: 100px;
+
+}
+
+
+
+.all-rights-reserve {
+    display: flex;
+    justify-content: space-between;
+    padding-left: 45px;
+    padding-right: 45px;
+    padding-bottom: 80px;
+    color: #FFF;
+    font-size: 24px;
+    font-weight: 500;
+    line-height: normal;
+}
