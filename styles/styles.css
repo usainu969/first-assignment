@@ -7,6 +7,11 @@
     font-family: merriweather;
 }
 
+
+
+/* banner section */
+
+
 .banner-bg {
     background-image: url('../styles/images/Banner\ Image.png');
     background-repeat: no-repeat;
@@ -42,3 +47,62 @@
     padding-right: 344px;
 
 }
+
+
+
+/* --------offer section----------- */
+
+
+.first-deal {
+    color: #F00;
+    text-align: center;
+    font-size: 88px;
+    font-weight: 700;
+    line-height: normal;
+    padding-top: 120px;
+    margin: auto;
+
+}
+
+.comment {
+    color: #F00;
+    text-align: center;
+    font-size: 24px;
+    font-weight: 500;
+    line-height: normal;
+    padding-top: 48px;
+    margin: auto;
+
+}
+
+
+.last-deal {
+    color: #070211;
+    text-align: center;
+    font-size: 48px;
+    font-weight: 700;
+    line-height: normal;
+    padding-top: 16px;
+    padding-bottom: 48px;
+    margin: auto;
+}
+
+
+
+.off-cantainer {
+    color: #F00;
+    text-align: center;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    margin-top: 48px;
+}
+
+.off-container {
+    justify-content: center;
+    padding-left: 400px;
+    padding-right: 400px;
+}
+
+/* ------ */
